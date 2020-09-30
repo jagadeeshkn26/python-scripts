@@ -18,6 +18,6 @@ print("Current Time: ", current_time)
 # git commit -m "Your Message"
 # git push
 # --------------------------------------------------------------------------------
-quote = "When someone shares something of value with you that benefits you, then you are morally obligated to share it with others!"
+quote = "When someone shares something of value with you that benefits you, then you are morally obligated to share it with others! KN Jagadeesh"
 print(quote)
 # --------------------------------------------------------------------------------
